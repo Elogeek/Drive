@@ -8,7 +8,7 @@ projet perso
 
 2) gérer l'upload des fichiers :
     
-   - 
+   
 
 3) les fichiers
 
