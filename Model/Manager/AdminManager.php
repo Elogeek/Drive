@@ -7,6 +7,6 @@ use Model\DB;
 
 class AdminManager {
 
-  /* area Admin*/
+  /* Area Admin*/
 
 }
